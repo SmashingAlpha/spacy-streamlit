@@ -16,10 +16,10 @@ vectors, token attributes, and more.
 
 ## 🚀 Quickstart
 
-You can install `spacy-streamlit` from pip:
+Install this fork
 
 ```bash
-pip install spacy-streamlit
+pip install -e .
 ```
 
 The package includes **building blocks** that call into Streamlit and set up all
